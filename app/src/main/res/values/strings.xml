@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">課題</string>
+    <string name="tv_name">お名前を入力してください</string>
+    <string name="tv_add">住まいを入力してください</string>
+    <string name="bt_click">表示</string>
+    <string name="bt_nclear">お名前クリア</string>
+    <string name="bt_aclear">住まいクリア</string>
+</resources>
